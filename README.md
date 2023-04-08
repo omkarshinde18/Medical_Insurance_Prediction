@@ -12,7 +12,7 @@ Perform exploratory data analysis to identify patterns and trends in the data, a
 Select and transform the relevant features that are most predictive of medical insurance claims.
 
 ### - Model selection and training: 
-Compare and evaluate different models, such as regression, decision trees, random forests, and neural networks, to identify the best performing model.
+Evaluate random forest regressor model, to grt the best perfomance.
 
 ### - Model evaluation and optimization: 
 Validate the model's performance using statistical metrics, such as accuracy, precision, recall, and F1 score, and fine-tune the model using hyperparameter optimization techniques.
